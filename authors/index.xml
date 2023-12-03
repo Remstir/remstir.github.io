@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Ремонт стиральных машин</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Ремонт стиральных машин</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Игорь Юдин</title>
+      <link>/authors/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D1%8E%D0%B4%D0%B8%D0%BD/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/%D0%B8%D0%B3%D0%BE%D1%80%D1%8C-%D1%8E%D0%B4%D0%B8%D0%BD/</guid>
+      <description>Мастер Игорь Анатольевич
+Мастерская №7 компании “Рембыттехника”, Челябинск
+Вызов и консультация бесплатно: +7 (951) 797-79-97</description>
+    </item>
+  </channel>
+</rss>
